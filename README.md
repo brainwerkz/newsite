@@ -7,3 +7,4 @@
 
 # Edit adding a new branch checkout newsite_branch1
 # adding branch2
+# doing a commit push to branch2
