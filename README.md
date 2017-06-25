@@ -6,3 +6,4 @@
 # New Update after fixing conflict - EDIT
 
 # Edit adding a new branch checkout newsite_branch1
+# adding branch2
